@@ -1,21 +1,19 @@
-# coc8640b4ab7ea074c56f6bdc
 
-Quick start:
+# Leads Tracker
 
-```
-$ npm install
-$ npm start
-````
+This is a chrome extension that saves your favourite websites links works only on browsers which have webstore like brave, chrome etc.
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Installation
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+Install my-project with downloading this zip file into your dekstop
 
-Happy Coding!
+**link:**  [DRIVE](https://drive.google.com/drive/folders/1dNZSdDOInadhT3cL6XZnlD_oRG-5ElH1?usp=sharing)
+
+* After download all files from above drive paste them into a seperate folder named as **Leads-Tracker**
+* Go on your browser here and click on extensions button then go in the manage extensions section
+* Click on developer mode 
+* Click on **Load** **unpacked** then search the folder in which you have installed all your files(Leads-tracker)
+* It will start showing in your extensions section now pinned it then it will look like this:
+
+    
