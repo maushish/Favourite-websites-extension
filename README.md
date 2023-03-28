@@ -14,6 +14,6 @@ Install my-project with downloading this zip file into your dekstop
 * Go on your browser here and click on extensions button then go in the manage extensions section
 * Click on developer mode 
 * Click on **Load** **unpacked** then search the folder in which you have installed all your files(Leads-tracker)
-* It will start showing in your extensions section now pinned it then it will look like this:
+* It will start showing in your extensions section now pinned it then it will look like this:![tssstee.png](/tssstee.png)
 
     
